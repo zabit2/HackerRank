@@ -4,7 +4,7 @@ Node Insert(Node head,int data) {
   Node newNode = new Node();
   Node headNode = head;
   newNode.data = data;
-    
+  
   while(head.next!=null)
   {
       head=head.next;
