@@ -10,6 +10,7 @@
     // This is a "method-only" submission. 
     // You only need to complete this method. 
 
+
 Node Delete(Node head, int position) {
   // Complete this method
     Node headTracer = head;
