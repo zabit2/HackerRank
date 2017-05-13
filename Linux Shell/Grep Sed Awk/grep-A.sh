@@ -1,1 +1,1 @@
-egrep -iw 'th[eao][tns]?e?'
+grep -iw 'the\|that\|then\|those'
