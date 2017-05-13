@@ -1,1 +1,1 @@
-egrep -iw 'th[eao][tns]?e?'a
+egrep -iw 'th[eao][tns]?e?'
